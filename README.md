@@ -151,6 +151,7 @@ It's up to you to adapt the package code to the solution you target. Good luck c
 This section explains how configure the project code and execute it on your system.
 
 ## Configuration
+---
 
 You can add or edit config files in the `confs/` folder to change the program behavior.
 
